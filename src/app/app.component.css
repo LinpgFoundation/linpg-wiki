@@ -1,0 +1,25 @@
+.dropdown-menu {
+  position: fixed;
+  height: 100%;
+  width: 15%;
+  display: inline-block;
+  border-radius: 0;
+}
+
+.form-control-dark {
+  background-color: rgba(255, 255, 255, .05);
+  border-color: rgba(255, 255, 255, .15);
+}
+
+.list-unstyled {
+  margin-left: 1em;
+}
+
+markdown {
+  display: inline-block;
+  align-items: center;
+  margin-left: 15%;
+  width: 85%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
